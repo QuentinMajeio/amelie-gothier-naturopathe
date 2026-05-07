@@ -1,2 +1,3 @@
-# amelie-gothier-naturopathe
-Landing page professionnelle pour Amélie Gothier, naturopathe à Bordeaux - Astro + Vercel
+# Welcome to your Lovable project
+
+TODO: Document your project here
